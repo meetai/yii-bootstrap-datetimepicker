@@ -1,2 +1,2 @@
-yii-bootstrap-datepicker
-========================
+yii-bootstrap-datetimepicker
+============================
